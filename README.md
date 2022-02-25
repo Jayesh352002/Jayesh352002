@@ -1,6 +1,9 @@
 ### Hello Folks 👋
 # My Name is Jayesh Bafna
 
+## Profile View
+![Visitor Count](https://profile-counter.glitch.me/{Jayesh352002}/count.svg)
+
 ## About Me
 
 I am passionate frontend developer and enthusiast android app developer. UG student at DYPCOE. My recent success include that I have secure 555 rank in National Engineering Olympiad 5.0 Exam. I have recently completed my 1 month web designing internship from Intership Studio. 
