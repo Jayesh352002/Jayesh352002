@@ -1,7 +1,7 @@
 ### Hi there 👋
 # My Name is Jayesh Bafna
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jayesh352002) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh352002)](https://github.com/Jayesh352002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh352002)](https://github.com/Jayesh352002/github-readme-stats)  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jayesh352002) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayesh352002)](https://git.io/streak-stats)
 <!--
