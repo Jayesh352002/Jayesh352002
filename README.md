@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Folks 👋
 # My Name is Jayesh Bafna
 
 ## About Me
@@ -17,7 +17,3 @@ C++ , Java , Python , HTML , CSS , JavaScript
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jayesh352002)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayesh352002)](https://git.io/streak-stats)
 
-# Connect with Me 
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![linkdin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Linkdin&logoColor=white)]
