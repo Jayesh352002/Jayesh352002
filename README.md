@@ -20,3 +20,4 @@ C++ , Java , Python , HTML , CSS , JavaScript
 # Connect with Me 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![linkdin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Linkdin&logoColor=white)]
