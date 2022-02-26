@@ -6,7 +6,11 @@
 
 ## About Me
 
-I am passionate frontend developer and enthusiast android app developer. UG student at DYPCOE. My recent success include that I have secure 555 rank in National Engineering Olympiad 5.0 Exam. I have recently completed my 1 month web designing internship from Intership Studio. 
+I am passionate frontend developer and enthusiast android app developer. UG student at DYPCOE. My recent success include that I have secure 555 rank in National Engineering Olympiad 5.0 Exam. Developing android app is my hobby and i have 
+developed 4-5 android apps including food ordering app like Zomato and 2 games like sudoku and crossword.
+
+
+
 
 ### Specialties : 
 Android App Development , Website Development , Frontend Development , UI Designing 
