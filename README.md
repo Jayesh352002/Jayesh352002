@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello Everyone<br> <b>I am Jayesh Bafna. </b> <br><br> I am passionate <b>Full Stack Java Developer</b> and enthusiast <b> Software Developer.</b> UG student at DYPCOE. My recent success include that I have completed <b>Oracle Certified Associate Java SE 8 Programmer Certification.</b> I have recently completed my 3 months Java full stack developer internship at Virtusa.<br><br>
+Hello Everyone<br> <b>I am Jayesh Bafna. </b> <br><br> Innovative <b>Software Developer</b> dedicated to crafting high-impact software solutions.
+
+As a dedicated <b>Software Developer</b> with <b> 1 years of hands-on experience </b> , I thrive on transforming complex challenges into innovative solutions. My expertise spans a diverse range of technologies, including <b> .NET, C#, C++, Java, VTK, WPF, AWS, React, and Next.js </b>, allowing me to craft seamless and efficient applications. My recent success include that I have completed <b>Oracle Certified Associate Java SE 8 Programmer Certification.</b>
+
+I am passionate about leveraging my technical skills to enhance user experiences and drive project success. With a keen eye for detail and a commitment to best practices, I enjoy collaborating with cross-functional teams to deliver high-quality results.
+
+<b> I’m always eager to learn and grow in this dynamic field, and I look forward to connecting with like-minded professionals to share insights and explore new opportunities. </b>
+
 
 [<b>Click Here to Get More Info About Me](https://bejewelled-creponne-0302ce.netlify.app/)
 
