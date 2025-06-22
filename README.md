@@ -8,7 +8,7 @@ I am passionate about leveraging my technical skills to enhance user experiences
 <b> I’m always eager to learn and grow in this dynamic field, and I look forward to connecting with like-minded professionals to share insights and explore new opportunities. </b>
 
 
-[<b>Click Here to Get More Info About Me](https://bejewelled-creponne-0302ce.netlify.app/)
+[<b>Click Here to Get More Info About Me]((https://jayesh-bafna-dev.lovable.app/))
 
 
 ## 🌐 Socials:
